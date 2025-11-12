@@ -1,7 +1,7 @@
 # 🌷 Hi, I'm Almalia Azzahra!
 
 🎓 **Mahasiswa Teknologi Rekayasa Multimedia**  
-📍 Semester 2 | Fokus di dunia desain, web, dan media digital interaktif  
+📍 Semester 3 | Fokus di dunia desain, web, dan media digital interaktif  
 💻 Passionate about coding, design, and everything creative ✨  
 
 ---
