@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🌷 Hi, I'm Almalia Azzahra!
 
-<!--
-**azzahraalma/azzahraalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Mahasiswa Teknologi Rekayasa Multimedia**  
+📍 Semester 2 | Fokus di dunia desain, web, dan media digital interaktif  
+💻 Passionate about coding, design, and everything creative ✨  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+- 🔭 Currently learning **Web Development & Multimedia Design**
+- 🎨 Love combining **art & tech** to create interactive experiences
+- 📚 Always exploring new tools like HTML, CSS, PHP, and After Effects
+- ☕ Powered by coffee and creativity
+
+---
+
+### 🛠️ Tech Stack
+💻 **Languages:** HTML | CSS | JavaScript | PHP  
+🎨 **Design Tools:** Figma | Photoshop | Illustrator | Premiere Pro  
+🗄️ **Database:** MySQL  
+
+---
+
+### 🌈 Fun Facts
+- 🧠 My brain runs on pixels and PHP 😆  
+- 🎧 Music helps me code faster (or at least I believe so)  
+- 📸 I love visual storytelling & motion graphics  
+
+✨ *"Code your ideas. Design your dreams."* ✨
