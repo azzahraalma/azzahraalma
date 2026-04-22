@@ -10,7 +10,7 @@
 - 🎨 Love combining **art & tech** to create interactive experiences
 - 📚 Always exploring new tools
 
-  xoxo, IT Girl
+Hit me up! ><
 
 
 
