@@ -1,4 +1,4 @@
-# 🌷 Hi, I'm Almalia Azzahra!
+# 🌷 Hi, Its Azza!
 
 🎓 Fourth semester in multimedia engineering  
 💻 Passionate about coding, design, and everything creative ✨  
@@ -9,8 +9,4 @@
 - 🔭 Currently learning **Web Development, App Develoment, and game development**
 - 🎨 Love combining **art & tech** to create interactive experiences
 - 📚 Always exploring new tools
-
-Hit me up! ><
-
-
 
